@@ -1,0 +1,5 @@
+- name: Install the docker
+  package:
+    name: docker
+    state: present
+
